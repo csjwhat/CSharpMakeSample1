@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cap52-Fusen", "cap52-Fusen\cap52-Fusen.csproj", "{D2A969B9-833A-4200-AABD-6B3EAB0B702E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2A969B9-833A-4200-AABD-6B3EAB0B702E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A969B9-833A-4200-AABD-6B3EAB0B702E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A969B9-833A-4200-AABD-6B3EAB0B702E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A969B9-833A-4200-AABD-6B3EAB0B702E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08D609D1-87B2-433F-909D-A95622E85224}
+	EndGlobalSection
+EndGlobal

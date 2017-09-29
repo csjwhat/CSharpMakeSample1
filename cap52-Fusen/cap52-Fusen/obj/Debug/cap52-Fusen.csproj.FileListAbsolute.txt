@@ -1,0 +1,10 @@
+C:\Users\ise3425\Source\Repos\CSharpMakeSample1\cap52-Fusen\cap52-Fusen\bin\Debug\cap52-Fusen.exe.config
+C:\Users\ise3425\Source\Repos\CSharpMakeSample1\cap52-Fusen\cap52-Fusen\bin\Debug\cap52-Fusen.exe
+C:\Users\ise3425\Source\Repos\CSharpMakeSample1\cap52-Fusen\cap52-Fusen\bin\Debug\cap52-Fusen.pdb
+C:\Users\ise3425\Source\Repos\CSharpMakeSample1\cap52-Fusen\cap52-Fusen\obj\Debug\cap52-Fusen.csprojResolveAssemblyReference.cache
+C:\Users\ise3425\Source\Repos\CSharpMakeSample1\cap52-Fusen\cap52-Fusen\obj\Debug\cap52_Fusen.FormFusen.resources
+C:\Users\ise3425\Source\Repos\CSharpMakeSample1\cap52-Fusen\cap52-Fusen\obj\Debug\cap52_Fusen.Properties.Resources.resources
+C:\Users\ise3425\Source\Repos\CSharpMakeSample1\cap52-Fusen\cap52-Fusen\obj\Debug\cap52-Fusen.csproj.GenerateResource.Cache
+C:\Users\ise3425\Source\Repos\CSharpMakeSample1\cap52-Fusen\cap52-Fusen\obj\Debug\cap52-Fusen.csproj.CoreCompileInputs.cache
+C:\Users\ise3425\Source\Repos\CSharpMakeSample1\cap52-Fusen\cap52-Fusen\obj\Debug\cap52-Fusen.exe
+C:\Users\ise3425\Source\Repos\CSharpMakeSample1\cap52-Fusen\cap52-Fusen\obj\Debug\cap52-Fusen.pdb
